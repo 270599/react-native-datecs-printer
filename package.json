@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/PonorogoCreativeIT/react-native-datecs-printer.git",
+      "D:\\CAZH\\Cazh-POS\\cazh-pos-mobile"
+    ]
+  ],
+  "_from": "git+https://github.com/PonorogoCreativeIT/react-native-datecs-printer.git",
+  "_id": "react-native-datecs-printer@git+https://github.com/PonorogoCreativeIT/react-native-datecs-printer.git#bad288153dcdc03a9ed1895c86f04504522ea3fa",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-datecs-printer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/PonorogoCreativeIT/react-native-datecs-printer.git",
+    "rawSpec": "git+https://github.com/PonorogoCreativeIT/react-native-datecs-printer.git",
+    "saveSpec": "git+https://github.com/PonorogoCreativeIT/react-native-datecs-printer.git",
+    "fetchSpec": "https://github.com/PonorogoCreativeIT/react-native-datecs-printer.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/PonorogoCreativeIT/react-native-datecs-printer.git#bad288153dcdc03a9ed1895c86f04504522ea3fa",
+  "_shasum": "84140260d1b05b90a38196329bc043bfe1804bdd",
+  "_spec": "git+https://github.com/PonorogoCreativeIT/react-native-datecs-printer.git",
+  "_where": "D:\\CAZH\\Cazh-POS\\cazh-pos-mobile",
+  "author": {
+    "name": "Renan Cardoso Soares",
+    "email": "renan-csoares@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/renancsoares/react-native-datecs-printer/issues"
+  },
+  "contributors": [],
+  "deprecated": false,
+  "description": "A port of https://github.com/giorgiofellipe/cordova-plugin-datecs-printer/ for React Native.",
+  "homepage": "https://github.com/renancsoares/react-native-datecs-printer#readme",
+  "keywords": [
+    "react-native",
+    "datecs",
+    "printer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-datecs-printer",
+  "peerDependencies": {
+    "react-native": "^0.47.2"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renancsoares/react-native-datecs-printer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}

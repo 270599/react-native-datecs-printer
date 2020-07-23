@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:3:11-51
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+		ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:1-7:12
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+		ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:1-7:12
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:5:22-65
+uses-feature#android.hardware.usb.host
+ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:6:5-87
+	android:required
+		ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:6:60-84
+	android:name
+		ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml:6:19-59
+uses-sdk
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+		ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+		ADDED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
+		INJECTED from D:\CAZH\Cazh-POS\cazh-pos-mobile\node_modules\react-native-datecs-printer\android\src\main\AndroidManifest.xml
